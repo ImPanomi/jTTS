@@ -3,7 +3,7 @@ package io.github.jtts;
 import okhttp3.Response;
 
 /**
- * Custom exception for gTTS4j that provides context-rich error messages
+ * Custom exception for jTTS that provides context-rich error messages
  * based on HTTP response status, TLD, and known failure patterns.
  */
 public class GTTsException extends Exception {
