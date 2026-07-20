@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Main gTTS4j class. Provides Text-to-Speech synthesis using Google Translate.
+ * Main jTTS class. Provides Text-to-Speech synthesis using Google Translate.
  */
 public class GTTs {
 
